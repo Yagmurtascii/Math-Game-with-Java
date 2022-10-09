@@ -1,0 +1,11 @@
+#buttonEasy {
+    -fx-border-width: 3;
+    -fx-border-radius:6;
+    -fx-background-color: #FF5757;
+
+
+}
+#buttonEasy:hover {
+     -fx-background-color: #ff4d6d;
+     -fx-border-radius:10;
+}

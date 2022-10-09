@@ -1,0 +1,11 @@
+
+#buttonHard {
+    -fx-border-width: 3;
+    -fx-border-radius:6;
+    -fx-background-color: #04a6c2;
+
+}
+#buttonHard:hover {
+     -fx-background-color: #1982C4;
+     -fx-border-radius:10;
+}

@@ -1,0 +1,10 @@
+#buttonMedium {
+    -fx-border-width: 3;
+    -fx-border-radius:6;
+    -fx-background-color:#ffdd00 ;
+
+}
+#buttonMedium:hover {
+     -fx-background-color:#ffba08 ;
+     -fx-border-radius:10;
+}
